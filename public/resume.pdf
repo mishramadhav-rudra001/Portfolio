@@ -1,0 +1,70 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3356 >>
+stream
+BT /F2 20 Tf 50 760 Td (MADHAV MISHRA) Tj ET
+BT /F1 10 Tf 50 742 Td (Aspiring Software Developer | AI/ML Enthusiast | Cybersecurity Learner) Tj ET
+BT /F1 9 Tf 50 728 Td (Email: mishramadhav03@gmail.com  |  Phone: +91 8340111208  |  Location: India) Tj ET
+BT /F1 9 Tf 50 714 Td (GitHub: github.com/mishramadhav-rudra001  |  LinkedIn: linkedin.com/in/madhav-kumar-1a9b84238) Tj ET
+0.8 0.8 0.8 RG 1 w 50 702 m 560 702 l S
+BT /F2 13 Tf 50 682 Td (EDUCATION) Tj ET
+BT /F2 10 Tf 50 666 Td (Bachelor of Computer Applications [BCA]) Tj ET
+BT /F1 10 Tf 50 652 Td (Indira Gandhi National Open University [IGNOU] - Current Enrollment | Expected: 2026) Tj ET
+BT /F1 9 Tf 50 638 Td (Core Coursework: Data Structures, OOP, Database Systems, Computer Networks, Operating Systems, Web Tech) Tj ET
+BT /F2 13 Tf 50 614 Td (CORE TECHNOLOGY DOMAINS) Tj ET
+BT /F2 10 Tf 50 598 Td (1. Software Development:) Tj ET
+BT /F1 9 Tf 65 584 Td (- Building full-stack web architectures, clean modular code, responsive interfaces, REST APIs.) Tj ET
+BT /F1 9 Tf 65 570 Td (- Technologies: Python, JavaScript, HTML5, CSS3/Tailwind, React.js, Node.js, Express, MongoDB.) Tj ET
+BT /F2 10 Tf 50 550 Td (2. Artificial Intelligence & Machine Learning:) Tj ET
+BT /F1 9 Tf 65 536 Td (- Exploring foundational ML concepts, mathematical intuition, and data-driven pipelines.) Tj ET
+BT /F1 9 Tf 65 522 Td (- Focus Areas: Python for AI, NumPy, Scikit-Learn, Neural Network intuition, Data Exploration.) Tj ET
+BT /F2 10 Tf 50 502 Td (3. Cybersecurity & Systems:) Tj ET
+BT /F1 9 Tf 65 488 Td (- Understanding Linux operating environments, networking protocols, and system defenses.) Tj ET
+BT /F1 9 Tf 65 474 Td (- Focus Areas: Linux Fundamentals, Bash Scripting, TCP/IP, OSI Model, Network Auditing, OWASP.) Tj ET
+BT /F2 13 Tf 50 448 Td (TECHNICAL SKILLS & TOOLKIT) Tj ET
+BT /F1 9 Tf 50 432 Td (Programming: Python, JavaScript) Tj ET
+BT /F1 9 Tf 50 418 Td (Web Technologies: React.js, HTML5, CSS3, Tailwind CSS, Node.js [Learning], Express [Learning], MongoDB [Learning]) Tj ET
+BT /F1 9 Tf 50 404 Td (Cybersecurity & Systems: Linux CLI, Bash Automation, Networking Fundamentals [TCP/IP, Ports, DNS]) Tj ET
+BT /F1 9 Tf 50 390 Td (Tools & Environments: Git, GitHub, VS Code, Linux Terminal) Tj ET
+BT /F2 13 Tf 50 364 Td (ENGINEERING PROJECTS & ARCHITECTURAL BLUEPRINTS) Tj ET
+BT /F2 10 Tf 50 348 Td (Full-Stack Web Architecture [MERN Stack]:) Tj ET
+BT /F1 9 Tf 65 334 Td (- Component-driven frontend in React with responsive Tailwind layout and modular state patterns.) Tj ET
+BT /F2 10 Tf 50 314 Td (Intelligent Data & ML Explorer [Python]:) Tj ET
+BT /F1 9 Tf 65 300 Td (- Automated dataset inspection, statistical correlation, and baseline classification models.) Tj ET
+BT /F2 10 Tf 50 280 Td (System & Network Reconnaissance Suite [Linux & Bash]:) Tj ET
+BT /F1 9 Tf 65 266 Td (- Automated shell scripts for port auditing, listening socket inspection, and system security posture.) Tj ET
+BT /F2 13 Tf 50 240 Td (PROFESSIONAL ATTRIBUTES) Tj ET
+BT /F1 9 Tf 50 224 Td (- Strong intellectual curiosity with commitment to transparent, verifiable skills.) Tj ET
+BT /F1 9 Tf 50 210 Td (- Balanced perspective bridging modern development, AI automation, and proactive security.) Tj ET
+BT /F1 9 Tf 50 196 Td (- Available for internships, entry-level software developer roles, and technical apprenticeships.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000003659 00000 n 
+0000003729 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3804
+%%EOF
